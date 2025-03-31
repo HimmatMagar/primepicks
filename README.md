@@ -28,9 +28,9 @@
 
  ### Prerequisites
  Before setting up the application, ensure that the following software is installed on your system:
-    - PHP = 8.3
-    - Composer
-    - MySQL
+    - **PHP** = 8.3
+    - **Composer**
+    - **MySQL**
 
  ### Steps
    - **Clone the repository**: git clone https://github.com/HimmatMagar/primepicks 
