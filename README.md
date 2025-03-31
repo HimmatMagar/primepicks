@@ -26,7 +26,7 @@
 ## Installation
 
  ### Prerequisites
- **Before setting up the application, ensure that the following software is installed on your system:**
+ Before setting up the application, ensure that the following software is installed on your system:
     - PHP = 8.3
     - Composer
     - MySQL
