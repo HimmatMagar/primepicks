@@ -21,6 +21,7 @@
  - **Frontend**: HTML, CSS, JavaScript, Bootstrap
  - **Database**: MySql
  - **Payment Gateway**: Paypal
+ - **Email Service**: Laravel Mail
 
 
 ## Installation
