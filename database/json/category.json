@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "category": "Electronics"
+    },
+    {
+        "id": 2,
+        "category": "Books"
+    },
+    {
+        "id": 3,
+        "category": "Clothing"
+    },
+    {
+        "id": 4,
+        "category": "Home & Kitchen"
+    },
+    {
+        "id": 5,
+        "category": "Beauty & Personal Care"
+    },
+    {
+        "id": 6,
+        "category": "Sports & Outdoors"
+    },
+    {
+        "id": 7,
+        "category": "Toys & Games"
+    },
+    {
+        "id": 8,
+        "category": "Automotive"
+    },
+    {
+        "id": 9,
+        "category": "Health & Wellness"
+    },
+    {
+        "id": 10,
+        "category": "Pet Supplies"
+    }
+]
